@@ -2,8 +2,8 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Yousef Elzyat's profile!
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif?cid=ecf05e479ydetlgs3tio1chpm0cxcb6ngbz1g4fnlwvu54lm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="28">
+  Welcome to Youssef Elzyat's profile!
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://giphy.com/embed/137EaR4vAOCn1S)" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
