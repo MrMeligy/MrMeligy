@@ -3,8 +3,7 @@
 
 <h3 align="center">
   Welcome to Youssef Elzyat's profile!
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://giphy.com/embed/137EaR4vAOCn1S)" width="28">
-</h3>
+  </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
