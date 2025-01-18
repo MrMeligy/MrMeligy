@@ -10,7 +10,6 @@
 
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I Love Anime.
 
 <!-- ### Connect with Me :
 
@@ -25,6 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-Z?logo=c%2B%2B)&nbsp;
+![.NET](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=dotnet)&nbsp;
 
 
 
