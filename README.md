@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-Z?logo=c%2B%2B)&nbsp;
 ![.NET](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=dotnet)&nbsp;
-![.NET](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=flutter)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
 
 
 
